@@ -2,6 +2,7 @@
     "name": "appmanschap/laravel-revisions",
     "description": "Create multiple revisions of any Eloquent model record along with its underlying relationships",
     "license": "MIT",
+    "version": "6.0.0",
     "keywords": [
         "laravel",
         "revisions",
