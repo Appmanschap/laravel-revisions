@@ -1,6 +1,9 @@
 # Changelog
 
 All notable changes to `laravel-revisions` will be documented in this file
+## 6.0.0 - 2021/10/20
+
+- Support PHP8.0
 
 ## 5.0.0 - 2020/10/06
 
